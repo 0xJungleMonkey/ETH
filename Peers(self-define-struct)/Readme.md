@@ -17,5 +17,5 @@ GETH execution client HTTP port: 8545(default)
 go build main.go
 ./main
 ```
-![Output](https://github.com/0xJungleMonkey/ETH/blob/ccfd5a0f09bf5a21dd3780149fb6f134c817871c/output.png)
+![Output](https://github.com/0xJungleMonkey/ETH/blob/04a7ad7070385b96b4cbf5b1a095b08c9357515a/Peers(self-define-struct)/output.png)
 
