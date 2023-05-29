@@ -15,6 +15,6 @@ GETH execution client HTTP port: 8545(default)
 go build main.go
 ./main
 ```
-
+![Output](https://github.com/0xJungleMonkey/ETH/blob/ccfd5a0f09bf5a21dd3780149fb6f134c817871c/output.png)
 3. This program used go-Ethereum library functions to interact with GETH client, and will print out a list of connected peers. 
 
