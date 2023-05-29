@@ -1,0 +1,1 @@
+Added the jwt token, but it is not useful, because port 8545 does not need jwttoken, however the 8551 unauthorzied because of invalid signature. Wish this confusion will be fixed soon.
